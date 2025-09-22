@@ -20,7 +20,7 @@ function seleccionarJuegos() {
 
   while (seguir) {
     mostrarJuegos();
-    let opcion = prompt("Ingrese el número del juego que desea alquilar (o escriba SALIR para terminar):");
+    let opcion = prompt("Ingrese el número del juego que desea alquilar(1-4) (o escriba SALIR para terminar):");
 
     if (opcion && opcion.toLowerCase() === "salir") {
       seguir = false;
