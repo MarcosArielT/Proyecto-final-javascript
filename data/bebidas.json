@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mojito",
+    "precio": 800,
+    "alcohol": true,
+    "categoria": "Con alcohol",
+    "ingredientes": [
+      "ron blanco",
+      "limón",
+      "azúcar",
+      "agua con gas",
+      "menta"
+    ],
+    "imagen": "assets/imgs/mojito.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Margarita",
+    "precio": 950,
+    "alcohol": true,
+    "categoria": "Con alcohol",
+    "ingredientes": [
+      "tequila",
+      "triple sec",
+      "limón",
+      "sal"
+    ],
+    "imagen": "assets/imgs/margarita.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Cuba Libre",
+    "precio": 700,
+    "alcohol": true,
+    "categoria": "Con alcohol",
+    "ingredientes": [
+      "ron",
+      "cola",
+      "limón"
+    ],
+    "imagen": "assets/imgs/cubalibre.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Limonada",
+    "precio": 450,
+    "alcohol": false,
+    "categoria": "Sin alcohol",
+    "ingredientes": [
+      "limón",
+      "azúcar",
+      "agua",
+      "hielo"
+    ],
+    "imagen": "assets/imgs/limonada.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Piña Colada",
+    "precio": 1100,
+    "alcohol": true,
+    "categoria": "Con alcohol",
+    "ingredientes": [
+      "ron",
+      "crema de coco",
+      "jugo de piña",
+      "hielo"
+    ],
+    "imagen": "assets/imgs/pinacolada.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Mocktail Berry",
+    "precio": 600,
+    "alcohol": false,
+    "categoria": "Sin alcohol",
+    "ingredientes": [
+      "frutos rojos",
+      "jugo de limón",
+      "soda",
+      "azúcar"
+    ],
+    "imagen": "assets/imgs/mocktail.jpg"
+  }
+]

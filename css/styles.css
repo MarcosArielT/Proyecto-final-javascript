@@ -1,0 +1,17 @@
+/* Estilos básicos para ProyectoFinal+Torres */
+:root{
+  --primary: #2e86de;
+  --accent: #ff9f1a;
+  --bg: #f8f9fa;
+}
+body{
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: var(--bg);
+}
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+#catalogo .card {
+  min-height: 100%;
+}
